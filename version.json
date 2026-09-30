@@ -1,0 +1,8 @@
+{
+  "version": "2.1.8",
+  "name": "Trabekprey-Dubbing Ultra 2 v2.1.8",
+  "release_date": "2026-10-01",
+  "changelog": "• បន្ថែមប៊ូតុង Update Version ស្វ័យប្រវត្តពី GitHub\n• ដោះស្រាយបញ្ហា Google Translate 429 Rate Limit (Multi-Processing លឿន & មិនគាំង)\n• ដោះស្រាយបញ្ហា 00:00 Dead Silence និងការពារកុំឱ្យបាត់បង់សំឡេង\n• ធ្វើឱ្យប្រសើរឡើងនូវការបកប្រែជាបាច់ 30 បន្ទាត់ < 1 វិនាទី",
+  "download_url": "https://github.com/leng121212/Trabekprey_Updates-Auto-Run-2-/releases/latest/download/Trabekprey_Dubbing_Ultra_2.exe",
+  "installer_url": "https://github.com/leng121212/Trabekprey_Updates-Auto-Run-2-/releases/latest/download/Trabekprey_Dubbing_Ultra_2_Setup_v2.1.8.exe"
+}
