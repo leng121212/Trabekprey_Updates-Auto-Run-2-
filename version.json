@@ -1,8 +1,8 @@
 {
-  "version": "2.1.8",
-  "name": "Trabekprey-Dubbing Ultra 2 v2.1.8",
-  "release_date": "2026-10-01",
-  "changelog": "• បន្ថែមប៊ូតុង Update Version ស្វ័យប្រវត្តពី GitHub\n• ដោះស្រាយបញ្ហា Google Translate 429 Rate Limit (Multi-Processing លឿន & មិនគាំង)\n• ដោះស្រាយបញ្ហា 00:00 Dead Silence និងការពារកុំឱ្យបាត់បង់សំឡេង\n• ធ្វើឱ្យប្រសើរឡើងនូវការបកប្រែជាបាច់ 30 បន្ទាត់ < 1 វិនាទី",
+  "version": "2.1.9",
+  "name": "Trabekprey-Dubbing Ultra 2 v2.1.9",
+  "release_date": "2026-10-03",
+  "changelog": "• កែសម្រួលបញ្ហា Render/Export Timeout (600s) លើវីដេអូវែងៗ (Merged Episodes) ឱ្យរលូន ១០០%\n• បង្កើនល្បឿន Export ដោយប្រើ Lossless Streamcopy (< 1 វិនាទី) រក្សាគុណភាពដើម ១០០%\n• ជួសជុលបញ្ហា Probe Video Info ដោយប្រើ FFmpeg ផ្ទាល់ (លឿន និងសុក្រឹត)\n• ការពារ FFmpeg Infinite Loop ដោយប្រើ Dynamic Timeout និង Trim Audio ស្វ័យប្រវត្ត",
   "download_url": "https://github.com/leng121212/Trabekprey_Updates-Auto-Run-2-/releases/latest/download/Trabekprey_Dubbing_Ultra_2.exe",
-  "installer_url": "https://github.com/leng121212/Trabekprey_Updates-Auto-Run-2-/releases/latest/download/Trabekprey_Dubbing_Ultra_2_Setup_v2.1.8.exe"
+  "installer_url": "https://github.com/leng121212/Trabekprey_Updates-Auto-Run-2-/releases/latest/download/Trabekprey_Dubbing_Ultra_2_Setup_v2.1.9.exe"
 }
